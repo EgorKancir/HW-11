@@ -1,0 +1,23 @@
+*
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin:0 auto;
+    padding: auto;
+}
+.box{
+    width: 350px;
+    height: 220px;
+    padding: 15px 10px 20px 10px;
+    margin-bottom:30px;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: green;
+
+}
+/*ширина 350px;
+висота 220px;
+внутрішній відступ: зверху 15px, зліва 10px, внизу 20px, праворуч 10px;
+зовнішній нижній відступ 30px;
+"пунктирну" границу червоного кольору товщиною 2px;
+зелений "фон" елемента.*/
